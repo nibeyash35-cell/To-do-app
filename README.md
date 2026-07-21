@@ -30,15 +30,6 @@ A beautiful and interactive To-Do List App built using HTML, CSS, and JavaScript
  ┗ 📄 script.js
 ```
 
-## GitHub Pages Deployment
-
-This project can be deployed using GitHub Pages.
-
-1. Go to the repository **Settings**.
-2. Open **Pages**.
-3. Select the `main` branch.
-4. Save the changes.
-5. Your app will be live at the GitHub Pages link.
 
 ## Screenshots
 
