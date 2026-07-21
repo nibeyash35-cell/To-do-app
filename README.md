@@ -20,11 +20,6 @@ A beautiful and interactive To-Do List App built using HTML, CSS, and JavaScript
 - CSS
 - JavaScript
 
-## How to Run
-
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
-3. Start adding your tasks.
 
 ## Project Structure
 
